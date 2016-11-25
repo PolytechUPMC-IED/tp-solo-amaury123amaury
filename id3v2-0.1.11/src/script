@@ -1,0 +1,6 @@
+#question1:
+#!/bin/bash
+
+unzip -r $1 
+
+
